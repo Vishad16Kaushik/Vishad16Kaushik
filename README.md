@@ -1,6 +1,7 @@
 Hi there, I'm Vishad Kaushik 👋
+
 🚀 GitHub Copilot & MCP Expert | AI-Powered Developer Enablement Specialist
-I'm a cutting-edge AI tools expert with 7+ years specializing in enterprise GitHub Copilot deployment, Model Context Protocol (MCP) implementation, and AI-powered developer enablement. Currently leading AI transformation at a Fortune 500 US financial institution, I've trained 200+ developers to achieve 35% faster development cycles through advanced prompt engineering, GitHub Copilot CLI mastery, and custom AI workflow design.
+I'm a cutting-edge AI tools expert with 8+ years specializing in enterprise GitHub Copilot deployment, Model Context Protocol (MCP) implementation, and AI-powered developer enablement. Currently leading AI transformation at a Fortune 500 US financial institution, I've trained 200+ developers to achieve 35% faster development cycles through advanced prompt engineering, GitHub Copilot CLI mastery, and custom AI workflow design.
 
 🔭 What I Do
 🤖 GitHub Copilot Subject Matter Expert - Enterprise deployment, CLI workflows, Spec Kit, and Extensions across 25+ development teams
@@ -71,7 +72,7 @@ DevOps
 
 🎯 99% Code Quality - Maintained high code quality standards while accelerating delivery velocity through AI-augmented workflows
 
-📈 25+ Teams Transformed - Led AI adoption across cross-functional development teams in Fortune 500 financial institution
+📈 25+ Teams Transformed - Led AI adoption across cross-functional development teams in a Fortune 500 financial institution
 
 ✨ Advanced Prompt Engineering - Certified specialist with hands-on experience training developers on sophisticated prompting techniques
 
@@ -86,7 +87,7 @@ DevOps
 
 🔥 Featured Projects
 🚀 GitHub Copilot Enterprise Best Practices (Coming Soon)
-Comprehensive guide to enterprise GitHub Copilot deployment including CLI workflows, Spec Kit customization, advanced prompt engineering, and security considerations based on Fortune 500 implementation.
+Comprehensive guide to enterprise GitHub Copilot deployment, including CLI workflows, Spec Kit customization, advanced prompt engineering, and security considerations based on Fortune 500 implementation.
 
 Key Topics:
 
@@ -103,7 +104,7 @@ MCP integration for enhanced context
 Security-aware AI adoption
 
 ⚡ MCP Server Collection (Coming Soon)
-Production-ready Model Context Protocol servers for enterprise development workflows enabling Claude AI, ChatGPT, and other AI tools to seamlessly integrate with development environments.
+Production-ready Model Context Protocol servers for enterprise development workflows, enabling Claude AI, ChatGPT, and other AI tools to seamlessly integrate with development environments.
 
 Includes:
 
@@ -144,7 +145,7 @@ GitHub Copilot Mastery: Enterprise-scale deployment including CLI workflows, Spe
 
 Model Context Protocol Expertise: Cutting-edge MCP server implementation connecting AI assistants to enterprise systems, databases, and development tools—pioneering standardized AI integration
 
-Multi-AI Orchestration: Seamless integration of GitHub Copilot, MCP, Claude AI, ChatGPT, and Custom GPTs into unified development workflows maximizing productivity and code quality
+Multi-AI Orchestration: Seamless integration of GitHub Copilot, MCP, Claude AI, ChatGPT, and Custom GPTs into unified development workflows, maximizing productivity and code quality
 
 Prompt Engineering Excellence: Certified specialist with hands-on experience teaching advanced prompting techniques, custom instructions, and context optimization to development teams
 
